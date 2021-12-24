@@ -1,0 +1,167 @@
+{
+  "main": {
+    "name":"Andres Greene",
+    "description":"I am a full-stack developer. This project is used for you to get to know me and my work",
+    "image":"profilepic.jpg",
+    "bio":"I am a full-stack developer that is passionate about learning new skills and applying them to developing applications. Also a founding father of USF Esports.",
+    "contactmessage":"Feel free to reach out to me!",
+    "email": "andresdgreene@gmail.com",
+    "phone": "",
+    "github":"https://github.com/dewaynegreene",
+    "project":"",
+    "address":{
+      "street":"P.O. Box 110743",
+      "city":"Lakewood Ranch",
+      "state":"Florida",
+      "zip": "34211"
+    },
+    "website": "andresdgreene.com",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/andres.d.greene/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/andresdgreene",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/andres-greene/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/andresdgreene/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/dewaynegreene",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"University of South Florida",
+        "degree":"Bachelors in Computer Science",
+        "graduated":"December 2021",
+        "description":"Relevant Classes: Data Structures, Analysis of Algorithms, Database Design, Software Engineering, Software System Development"
+      }
+    ],
+    "work":[
+      {
+        "company":"Universiry of South Florida",
+        "title":"Sports Programs Specialist - Lead Developer ",
+        "years":"June 2020 - December 2021",
+        "description":"● Develop software using JavaScript (Node.js and Discord.js) to create an application that interacts with hundreds of users in our discord server to verify them as current USF students. \n● Created a non-SQL database using MongoDB stored on a virtual private server (VPS) hosted by AWS that reads and writes student information when they verify themselves with our JavaScript application. ● Develop extensive reports on the engagement that users have in our discord servers that are used as statistics when talking to student government regarding funding for our program. ● Develop and modify overlays using JavaScript, jQuery, React, HTML, and CSS that are used in a broadcasting software (OBS) for Esport related streams to hundreds of viewers on streaming platforms such as Twitch and YouTube. This overlay provides the viewers with a better understanding and enjoyment of the broadcast. ● Produce and cast for the universities Esports Program for using the forementioned software’s. ● Teach and assist underclassman developer with all software we use. Worked in Agile environment and held daily sprint meetings to go over work that needs to be done."
+      },
+      {
+        "company":"ATX Forensics",
+        "title":"Intern",
+        "years":"June 2018 - August 2018",
+        "description":"● Installed and monitored several servers running instances of windows operating systems. These servers were used in testing cybersecurity threats. ● Created, developed, and revised spreadsheets with sensitive forensic evidence that was later used in court cases. ● Analyzed and documented digital forensic evidence through software’s such as X-Ways and Encase. "
+      }
+    ],
+    "skills":[
+      {
+        "name":"Javascript",
+        "level":"80%"
+      },
+      {
+        "name":"C",
+        "level":"70%"
+      },
+      {
+        "name":"C++",
+        "level":"70%"
+      },
+      {
+        "name":"C#",
+        "level":"60%"
+      },
+      {
+        "name":"Python",
+        "level":"80%"
+      },
+      {
+        "name":"SQL",
+        "level":"70%"
+      },
+      {
+        "name":"PHP",
+        "level":"70%"
+      },
+      {
+        "name":"HTML",
+        "level":"70%"
+      },
+      {
+        "name":"CSS",
+        "level":"60%"
+      },
+      {
+        "name":"Spanish",
+        "level":"100%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Rocket League Overlay",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"01.jpg",
+        "url":""
+      },
+      {
+        "title":"Snake Game",
+        "category":"Snake game made in python",
+        "image":"02.jpg",
+        "url":""
+      },
+      {
+        "title":"Memory Game",
+        "category":"Memory game made in C#",
+        "image":"03.jpg",
+        "url":""
+      },
+      {
+        "title":"Resume Website",
+        "category":"Website made with React, HTML, and CSS",
+        "image":"04.jpg",
+        "url":""
+      },
+      {
+        "title":"Discord Bot",
+        "category":"Discord Bot that is used to play music in discord channels",
+        "image":"05.jpg",
+        "url":""
+      },
+      {
+        "title":"Verification Application",
+        "category":"Application verifies students with their school ID",
+        "image":"06.jpg",
+        "url":""
+      },
+      {
+        "title":"In Progress",
+        "category":"",
+        "image":"07.jpg",
+        "url":""
+      },
+      {
+        "title":"In Progess",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"08.jpg",
+        "url":""
+      }
+    ]
+  }
+}
