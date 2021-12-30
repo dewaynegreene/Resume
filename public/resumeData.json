@@ -8,7 +8,7 @@
     "email": "andresdgreene@gmail.com",
     "phone": "",
     "github":"https://github.com/dewaynegreene",
-    "project":"",
+    "project":"https://github.com/dewaynegreene",
     "address":{
       "street":"P.O. Box 110743",
       "city":"Lakewood Ranch",
@@ -57,16 +57,24 @@
     ],
     "work":[
       {
-        "company":"Universiry of South Florida",
+        "company":"University of South Florida",
         "title":"Sports Programs Specialist - Lead Developer ",
         "years":"June 2020 - December 2021",
-        "description":"● Develop software using JavaScript (Node.js and Discord.js) to create an application that interacts with hundreds of users in our discord server to verify them as current USF students. \n● Created a non-SQL database using MongoDB stored on a virtual private server (VPS) hosted by AWS that reads and writes student information when they verify themselves with our JavaScript application. ● Develop extensive reports on the engagement that users have in our discord servers that are used as statistics when talking to student government regarding funding for our program. ● Develop and modify overlays using JavaScript, jQuery, React, HTML, and CSS that are used in a broadcasting software (OBS) for Esport related streams to hundreds of viewers on streaming platforms such as Twitch and YouTube. This overlay provides the viewers with a better understanding and enjoyment of the broadcast. ● Produce and cast for the universities Esports Program for using the forementioned software’s. ● Teach and assist underclassman developer with all software we use. Worked in Agile environment and held daily sprint meetings to go over work that needs to be done."
+        "description":"● Develop software using JavaScript (Node.js and Discord.js) to create an application that interacts with hundreds of users in our discord server to verify them as current USF students.",
+        "description2":"● Created a non-SQL database using MongoDB stored on a virtual private server (VPS) hosted by AWS that reads and writes student information when they verify themselves with our JavaScript application.",
+        "description3":"● Develop extensive reports on the engagement that users have in our discord servers that are used as statistics when talking to student government regarding funding for our program.",
+        "description4":"● Develop and modify overlays using JavaScript, jQuery, React, HTML, and CSS that are used in a broadcasting software (OBS) for Esport related streams to hundreds of viewers on streaming platforms such as Twitch and YouTube. This overlay provides the viewers with a better understanding and enjoyment of the broadcast.",
+        "description5":"● Produce and cast for the universities Esports Program for using the forementioned software’s.",
+        "description6":"● Teach and assist underclassman developer with all software we use. Worked in Agile environment and held daily sprint meetings to go over work that needs to be done."
+
       },
       {
         "company":"ATX Forensics",
         "title":"Intern",
         "years":"June 2018 - August 2018",
-        "description":"● Installed and monitored several servers running instances of windows operating systems. These servers were used in testing cybersecurity threats. ● Created, developed, and revised spreadsheets with sensitive forensic evidence that was later used in court cases. ● Analyzed and documented digital forensic evidence through software’s such as X-Ways and Encase. "
+        "description":"● Installed and monitored several servers running instances of windows operating systems. These servers were used in testing cybersecurity threats.",
+        "description2":"● Created, developed, and revised spreadsheets with sensitive forensic evidence that was later used in court cases. ",
+        "description3":"● Analyzed and documented digital forensic evidence through software’s such as X-Ways and Encase."
       }
     ],
     "skills":[

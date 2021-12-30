@@ -36,7 +36,12 @@ class Resume extends Component {
             {work.title}
             <span>&bull;</span> <em className="date">{work.years}</em>
           </p>
-          <p>{work.description}</p>
+          <p>{work.description}<br>
+          </br>{work.description2}<br>
+          </br>{work.description3}<br>
+          </br>{work.description4}<br>
+          </br>{work.description5}<br>
+          </br>{work.description6}</p>
         </div>
       );
     });
