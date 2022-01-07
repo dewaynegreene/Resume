@@ -124,39 +124,39 @@
     "projects": [
       {
         "title":"Rocket League Overlay",
-        "category":"My Travel Blog for my post-university travels",
+        "category":"Overlay used for USF Esports Rocket League broadcasts",
         "image":"01.jpg",
-        "url":""
+        "url":"/RocketLeagueOverlay"
       },
       {
         "title":"Snake Game",
         "category":"Snake game made in python",
         "image":"02.jpg",
-        "url":""
+        "url":"/SnakeGame"
       },
       {
         "title":"Memory Game",
         "category":"Memory game made in C#",
         "image":"03.jpg",
-        "url":""
+        "url":"/MemoryGame"
       },
       {
         "title":"Resume Website",
         "category":"Website made with React, HTML, and CSS",
         "image":"04.jpg",
-        "url":""
+        "url":"/ResumeWebsite"
       },
       {
         "title":"Discord Bot",
         "category":"Discord Bot that is used to play music in discord channels",
         "image":"05.jpg",
-        "url":""
+        "url":"/DiscordBot"
       },
       {
         "title":"Verification Application",
         "category":"Application verifies students with their school ID",
         "image":"06.jpg",
-        "url":""
+        "url":"/VerificationApplication"
       },
       {
         "title":"In Progress",
