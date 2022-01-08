@@ -5,7 +5,7 @@ import Fade from "react-reveal";
 function RocketLeagueOverlay(){
 
   return (
-    <div>
+    <div className="pages">
       <div>
         <nav id="nav-wrap">
           <a className="mobile-btn" href="#nav-wrap" title="Show navigation">
@@ -33,7 +33,7 @@ function RocketLeagueOverlay(){
             <h1>Rocket League Overlay</h1>
           <hr />
           <Fade bottom duration={2000}>
-            <video width="100%" controls autoPlay muted loop>
+            <video width="100%" controls muted loop>
               <source src="videos/RocketLeagueClip.mp4" type="video/mp4"/>
             </video>
           </Fade>
@@ -48,13 +48,13 @@ function RocketLeagueOverlay(){
           <p></p>
         </div>
         <div>
-          <h1>What is Rocket League</h1>
+          <h2>What is Rocket League</h2>
           <h3>Rocket League is a vehicular soccer video game developed and published
             by Psyonix.
           </h3>
           <p></p>
         </div>
-        <h1>Backend</h1>
+        <h2>Backend</h2>
         <h3>This project communicates directly with the Rocket Leagues clientside API
           to read the information that is needed to display on the front end of the project.
           For this, we use an open source software called Bakkesmod which is a plugin that allows 
@@ -82,15 +82,15 @@ function RocketLeagueOverlay(){
           is used to set the team colors on the scoreboard for the color of the team.
         </h3>
         <p></p>
-        <h1>Scoreboard</h1>
-        <img src="images/Scoreboard.png" alt="Scoreboard"></img>
+        <h2>Scoreboard</h2>
+        <img src="images/Scoreboard.png" alt="Scoreboard" className="center"></img>
         <div>
           <p></p>
           <h3>The scoreboard that covers the top left of the screen shows the team names, the score of the match
             and the time remaining in the game. The rectangles below each team indicate the series score.
           </h3>
           <p></p>
-          <h1>Boost Meters</h1>
+          <h2>Boost Meters</h2>
           <img src="images/BoostMeters.png" alt="BoostMeter" className="center"></img>
           <p></p>
           <h3>The boost meters indicate how much boost a player has at any given moment. These boost meters are updated every gametick and since

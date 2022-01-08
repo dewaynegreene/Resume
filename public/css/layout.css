@@ -1036,12 +1036,12 @@ footer .social-links li:first-child { margin-left: 0; }
 
 .pages {
    position: relative;
-   height: 800px;
+   /* height: 800px; */
    min-height: 500px;
    width: 100%;
    
    text-align: center;
-   overflow: hidden;
+   /* overflow: hidden; */
 }
 
 /* vertically center banner section */
@@ -1119,3 +1119,24 @@ footer .social-links li:first-child { margin-left: 0; }
    transition: all .3s ease-in-out;
 }
 .pages .scrolldown a:hover { color: #0762f9; }
+
+.pages h1{
+   font: 90px/1.1em 'opensans-bold', sans-serif;
+   color: #fff;
+   letter-spacing: -2px;
+   margin: 0 auto 18px auto;
+}
+
+.pages h2{
+   font: 25px 'opensans-bold', sans-serif;
+   color: #ddd;
+   margin: 0 auto;
+   width: 70%;
+}
+
+.pages h3 {
+   font: 15px 'librebaskerville-regular', serif;
+   color: #ddd;
+   margin: 0 auto;
+   width: 70%;
+}
