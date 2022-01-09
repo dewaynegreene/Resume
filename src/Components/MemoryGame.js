@@ -1,7 +1,7 @@
 import React from "react";
 import ParticlesBg from "particles-bg";
 
-function SnakeGame(){
+function MemoryGame(){
   return (
     <div className="pages">
     <div>
@@ -26,13 +26,13 @@ function SnakeGame(){
             </a>
           </li>
 
-          <li className="current">
+          <li>
             <a href="/Snake">
               Snake
             </a>
           </li>
 
-          <li>
+          <li className="current">
             <a href="/Memory">
               Memory
             </a>
@@ -105,4 +105,4 @@ function SnakeGame(){
 );
 }
 
-export default SnakeGame;
+export default MemoryGame;

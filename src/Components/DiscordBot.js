@@ -1,7 +1,7 @@
 import React from "react";
 import ParticlesBg from "particles-bg";
 
-function SnakeGame(){
+function DiscordBot(){
   return (
     <div className="pages">
     <div>
@@ -26,7 +26,7 @@ function SnakeGame(){
             </a>
           </li>
 
-          <li className="current">
+          <li>
             <a href="/Snake">
               Snake
             </a>
@@ -38,7 +38,7 @@ function SnakeGame(){
             </a>
           </li>
 
-          <li>
+          <li className="current">
             <a href="/DiscordBot">
               Discord Bot
             </a>
@@ -105,4 +105,4 @@ function SnakeGame(){
 );
 }
 
-export default SnakeGame;
+export default DiscordBot;
