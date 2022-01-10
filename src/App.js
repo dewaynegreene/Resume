@@ -11,6 +11,9 @@ import Contact from "./Components/Contact";
 import Portfolio from "./Components/Portfolio";
 import RocketLeagueOverlay from "./Components/RocketLeagueOverlay";
 import SnakeGame from "./Components/SnakeGame";
+import MemoryGame from "./Components/MemoryGame";
+import DiscordBot from "./Components/DiscordBot";
+import VerificationBot from "./Components/VerificationBot";
 
 class App extends Component {
   constructor(props) {
@@ -55,7 +58,10 @@ class App extends Component {
           <Footer data={this.state.resumeData.main} />
         </div>}/>
         <Route path ="/RocketLeagueOverlay" element={<RocketLeagueOverlay/>}/>
-        <Route path ="/SnakeGame" element={<SnakeGame/>}/>
+        <Route path ="/Snake" element={<SnakeGame/>}/>
+        <Route path ="/Memory" element={<MemoryGame/>}/>
+        <Route path ="/DiscordBot" element={<DiscordBot/>}/>
+        <Route path ="/VerificationBot" element={<VerificationBot/>}/>
       </Routes>
       </Router>
     );

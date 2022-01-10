@@ -16,12 +16,42 @@ function RocketLeagueOverlay(){
           </a>
 
           <ul id="nav" className="nav">
-            <li className="current">
-              <a href="/">
-                Back to Home
-              </a>
-            </li>
-          </ul>
+          <li>
+            <a href="/#portfolio">
+              Back to Home
+            </a>
+          </li>
+
+          <li className="current">
+            <a href="/RocketLeagueOverlay">
+              RL Overlay
+            </a>
+          </li>
+
+          <li>
+            <a href="/Snake">
+              Snake
+            </a>
+          </li>
+
+          <li>
+            <a href="/Memory">
+              Memory
+            </a>
+          </li>
+
+          <li>
+            <a href="/DiscordBot">
+              Discord Bot
+            </a>
+          </li>
+
+          <li>
+            <a href="/VerificationBot">
+              Verification
+            </a>
+          </li>
+        </ul>
         </nav>
       <p></p>
       </div>
