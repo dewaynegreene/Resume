@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"Andres Greene",
-    "description":"I am a full-stack developer. This project is used for you to get to know me and my work",
+    "description":"I am a full-stack developer.",
     "image":"profilepic.jpg",
     "bio":"I am a full-stack developer that is passionate about learning new skills and applying them to developing applications. Also a founding father of USF Esports.",
     "contactmessage":"Feel free to reach out to me!",
@@ -16,7 +16,7 @@
       "zip": "34211"
     },
     "website": "andresdgreene.com",
-    "resumedownload":"",
+    "resumedownload":"Resume.pdf",
     "social":[
       {
         "name":"facebook",
