@@ -1022,3 +1022,114 @@ footer .social-links li:first-child { margin-left: 0; }
 .github-btn{
    background-color: #34495e !important;
 }
+
+/* ------------------------------------------------------------------ */
+/* j. Project Pages
+/* ------------------------------------------------------------------ */
+
+.pages {
+   position: relative;
+   /* height: 800px; */
+   min-height: 500px;
+   width: 100%;
+   
+   text-align: center;
+   /* overflow: hidden; */
+}
+
+/* vertically center banner section */
+.pages:before {
+   content: '';
+   display: inline-block;
+   vertical-align: middle;
+   height: 100%;
+}
+.pages .banner {
+   display: inline-block;
+   vertical-align: middle;
+   margin: 0 auto;
+   width: 85%;
+   padding-bottom: 30px;
+   text-align: center;
+}
+
+.pages .banner-text { width: 100%; }
+.pages .banner-text h1 {
+   font: 60px 'opensans-bold', sans-serif;
+   color: #fff;
+   letter-spacing: -2px;
+   margin: 0 auto 18px auto;
+}
+.pages .banner-text h3 {
+   font: 18px/1.9em 'opensans-bold', sans-serif;
+   color: #ddd;
+   margin: 0 auto;
+   width: 70%;
+}
+.pages .banner-text h3 span,
+.pages .banner-text h3 a {
+   color: #fff;
+}
+.pages .banner-text hr {
+   width: 60%;
+   margin: 18px auto 24px auto;
+   border-color: #2F2D2E;
+   border-color: rgba(150, 150, 150, .1);
+}
+
+/* header social links */
+.pages .social {
+   margin: 24px 0;
+   padding: 0;
+   font-size: 30px;
+}
+.pages .social li {
+   display: inline-block;
+   margin: 0 15px;
+   padding: 0;
+}
+.pages .social li a { color: #fff; }
+.pages .social li a:hover { color: #0762f9; }
+
+/* scrolldown link */
+.pages .scrolldown a {
+   position: absolute;
+   bottom: 30px;
+   left: 50%;
+   margin-left: -29px;
+   color: #fff;
+   display: block;
+   height: 42px;
+   width: 42px;
+   font-size: 42px;
+   line-height: 42px;
+   color: #fff;
+   border-radius: 100%;
+
+   -webkit-transition: all .3s ease-in-out;
+   -moz-transition: all .3s ease-in-out;
+   -o-transition: all .3s ease-in-out;
+   transition: all .3s ease-in-out;
+}
+.pages .scrolldown a:hover { color: #0762f9; }
+
+.pages h1{
+   font: 60px 'opensans-bold', sans-serif;
+   color: #fff;
+   letter-spacing: -2px;
+   margin: 0 auto 18px auto;
+}
+
+.pages h2{
+   font: 25px 'opensans-bold', sans-serif;
+   color: #ddd;
+   margin: 0 auto;
+   width: 70%;
+}
+
+.pages h3 {
+   font: 15px 'opensans-bold', sans-serif;
+   color: #ddd;
+   margin: 0 auto;
+   width: 70%;
+}
