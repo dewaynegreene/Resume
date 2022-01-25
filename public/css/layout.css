@@ -1062,13 +1062,13 @@ footer .social-links li:first-child { margin-left: 0; }
 
 .pages .banner-text { width: 100%; }
 .pages .banner-text h1 {
-   font: 90px/1.1em 'opensans-bold', sans-serif;
+   font: 60px 'opensans-bold', sans-serif;
    color: #fff;
    letter-spacing: -2px;
    margin: 0 auto 18px auto;
 }
 .pages .banner-text h3 {
-   font: 18px/1.9em 'librebaskerville-regular', serif;
+   font: 18px/1.9em 'opensans-bold', sans-serif;
    color: #ddd;
    margin: 0 auto;
    width: 70%;
@@ -1121,7 +1121,7 @@ footer .social-links li:first-child { margin-left: 0; }
 .pages .scrolldown a:hover { color: #0762f9; }
 
 .pages h1{
-   font: 90px/1.1em 'opensans-bold', sans-serif;
+   font: 60px 'opensans-bold', sans-serif;
    color: #fff;
    letter-spacing: -2px;
    margin: 0 auto 18px auto;
@@ -1135,7 +1135,7 @@ footer .social-links li:first-child { margin-left: 0; }
 }
 
 .pages h3 {
-   font: 15px 'librebaskerville-regular', serif;
+   font: 15px 'opensans-bold', sans-serif;
    color: #ddd;
    margin: 0 auto;
    width: 70%;
