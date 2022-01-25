@@ -116,8 +116,9 @@ function RocketLeagueOverlay(){
         <img src="images/Scoreboard.png" alt="Scoreboard" className="center"></img>
         <div>
           <p></p>
-          <h3>The scoreboard that covers the top left of the screen shows the team names, the score of the match
-            and the time remaining in the game. The rectangles below each team indicate the series score.
+          <h3>The scoreboard that covers the top left of the screen shows the team names, the score of the match, the series score,
+            and the time remaining in the game. The rectangles below each team indicate the series score. There there is also 
+            a version where you can run a scoreboard with 4 bars under the teams for best of 7 series'.
           </h3>
           <p></p>
           <h2>Boost Meters</h2>

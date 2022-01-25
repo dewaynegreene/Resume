@@ -58,19 +58,18 @@ function MemoryGame(){
     <div>
       <div>
           <p></p>
-          <h1>Snake Game</h1>
+          <h1>Memory Game</h1>
         <hr />
       </div>
       <div>
         <p></p>
-        <h3>The Snake game is a game made with the Pygame library as a fun project
+        <h3>This memory game was made as a fun project in C# to work on my skills and as a gift to my coworkers.
         </h3>
         <p></p>
       </div>
       <div>
         <h2>How it works</h2>
-        <h3>Pygame is a set of modules designed for writing videogames. Using these modules, we try to emulate the orinigal snake game
-          with a leaderboard and and some extra features.
+        <h3>Using C#, we can construct a 
         </h3>
         <p></p>
       </div>

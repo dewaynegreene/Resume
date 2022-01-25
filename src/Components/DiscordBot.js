@@ -58,12 +58,12 @@ function DiscordBot(){
     <div>
       <div>
           <p></p>
-          <h1>Snake Game</h1>
+          <h1>Discord Bot</h1>
         <hr />
       </div>
       <div>
         <p></p>
-        <h3>The Snake game is a game made with the Pygame library as a fun project
+        <h3>The Discord Bot is an application that I made that provided some features to myself and some friends when in discord calls.
         </h3>
         <p></p>
       </div>
