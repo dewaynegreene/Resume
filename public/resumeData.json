@@ -1,7 +1,7 @@
 {
   "main": {
-    "name":"Andres Greene",
-    "description":"I am a full-stack developer.",
+    "name":"Andrés Greene",
+    "description":"I am a full-stack developer",
     "image":"profilepic.jpg",
     "bio":"I am a full-stack developer that is passionate about learning new skills and applying them to developing applications. Also a founding father of USF Esports.",
     "contactmessage":"Feel free to reach out to me!",
@@ -132,19 +132,19 @@
         "title":"Snake Game",
         "category":"Snake game made in python",
         "image":"02.jpg",
-        "url":"/SnakeGame"
+        "url":"/Snake"
       },
       {
         "title":"Memory Game",
         "category":"Memory game made in C#",
         "image":"03.jpg",
-        "url":"/MemoryGame"
+        "url":"/Memory"
       },
       {
         "title":"Resume Website",
         "category":"Website made with React, HTML, and CSS",
         "image":"04.jpg",
-        "url":"/ResumeWebsite"
+        "url":"/"
       },
       {
         "title":"Discord Bot",
@@ -156,7 +156,7 @@
         "title":"Verification Application",
         "category":"Application verifies students with their school ID",
         "image":"06.jpg",
-        "url":"/VerificationApplication"
+        "url":"/VerificationBot"
       },
       {
         "title":"In Progress",
