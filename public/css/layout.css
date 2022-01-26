@@ -201,17 +201,18 @@ ul#nav li.current a { color: #fe6928; }
    color: #ccc;
 }
 #about .profile-pic {
-   position: relative;
-   width: 120px;
-   height: 120px;
-   border-radius: 100%;
+   position: absolute;
+   max-width: 152%;
+   height: auto;
+   top: -100px;
+   left: -123px;
 }
-#about .contact-details { width: 41.66667%; }
+#about .contact-details { width: 30%; }
 #about .download {
    width: 58.33333%;
    padding-top: 6px;
 }
-#about .main-col { padding-right: 5%; }
+#about .main-col { padding-right: 5%; padding-left: 10%; }
 #about .download .button {
    margin-top: 6px;
    background: #444;
