@@ -56,8 +56,7 @@ function RocketLeagueOverlay(){
       <p></p>
       </div>
       <ParticlesBg type="cobweb" bg={true} />
-
-      <div className="row banner">
+      <div className="row">
         <div className="banner-text">
             <p></p>
             <h1>Rocket League Overlay</h1>
@@ -68,22 +67,31 @@ function RocketLeagueOverlay(){
             </video>
           </Fade>
         </div>
-        <div>
-          <p></p>
-          <h3>The Rocket League Overlay was a project done for USF Esports.
-            The purpose of this project is to provide an overlay to the videogame "Rocket League"
-            that allows the viewer to have a better understanding of the game with a clean look to it.
-            This project was made using Javascript, JQuery, HTML, and CSS
-          </h3>
-          <p></p>
+      </div>
+      <div className="row">
+        <div className="column five">
         </div>
-        <div>
-          <h2>What is Rocket League</h2>
+        <div className="column twelve">
+        <h3>The Rocket League Overlay was a project done for USF Esports.
+          The purpose of this project is to provide an overlay to the videogame "Rocket League"
+          that allows the viewer to have a better understanding of the game with a clean look to it.
+          This project was made using Javascript, JQuery, HTML, and CSS
+        </h3>
+        </div>
+      </div>
+      <p></p>
+      <div className="row">
+        <h2>What is Rocket League</h2>
+        <div className="column six">
+          <img src="images/RocketLeagueLogo.png" alt="RocketLeagueLogo" className=" image center"></img>
+        </div>
+        <div className="column six align-center" style={{'vertical-align': 'middle'}}>
           <h3>Rocket League is a vehicular soccer video game developed and published
             by Psyonix.
           </h3>
-          <p></p>
         </div>
+        <p></p>
+      </div>
         <h2>Backend</h2>
         <h3>This project communicates directly with the Rocket Leagues clientside API
           to read the information that is needed to display on the front end of the project.
@@ -113,7 +121,7 @@ function RocketLeagueOverlay(){
         </h3>
         <p></p>
         <h2>Scoreboard</h2>
-        <img src="images/Scoreboard.png" alt="Scoreboard" className="center"></img>
+        <img src="images/RocketLeagueLogo.png" alt="Scoreboard" className=" image center"></img>
         <div>
           <p></p>
           <h3>The scoreboard that covers the top left of the screen shows the team names, the score of the match, the series score,
@@ -130,7 +138,6 @@ function RocketLeagueOverlay(){
           </h3>
 
         </div>
-      </div>
     </div>
     
   );
